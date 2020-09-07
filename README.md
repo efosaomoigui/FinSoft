@@ -1,0 +1,2 @@
+# FinSoft
+Greattools for finance
